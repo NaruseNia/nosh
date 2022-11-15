@@ -1,0 +1,2 @@
+# nosh
+A minimal shell
